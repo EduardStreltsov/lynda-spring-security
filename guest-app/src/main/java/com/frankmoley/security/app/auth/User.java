@@ -15,7 +15,6 @@ public class User {
 	@Column(name = "user_name", nullable = false, unique = true)
 	private String userName;
 	
-	@Column
 	private String password;
 	
 	public Long getId() {
