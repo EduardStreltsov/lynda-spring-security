@@ -1,2 +1,2 @@
-insert into user (id, user_name, password) values ('1', 'user1', 'user1');
-insert into user (id, user_name, password) values ('2', 'user2', 'user2');
+insert into user (id, user_name, password) values ('1', 'user1', '$2a$11$dp4wMyuqYE3KSwIyQmWZFeUb7jCsHAdk7ZhFc0qGw6i5J124imQBi');
+insert into user (id, user_name, password) values ('2', 'user2', '$2y$11$GllYXZ/zoqnrVaIee5DqsOOAJy32mpmMf46Kne.vN6CV9wkWZ2WSq');
